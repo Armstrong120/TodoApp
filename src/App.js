@@ -9,30 +9,7 @@ import Tab from '@mui/material/Tab';
 import FormControlLabel from '@mui/material/FormControlLabel';
 import Checkbox from '@mui/material/Checkbox';
 
-// function TabPanel(props) {
-//   const { children, value, index, ...other } = props;
 
-//   return (
-//     <Box hidden={value !== index}>
-//       <Box>
-//         <FormGroup sx={{ borderColor: 'rgb(233, 233, 233)', borderBottom: 1, marginLeft: '11px', width: 'calc(100% + 5px)' }}>
-//           <FormControlLabel
-//             control={<Checkbox size="small" color="default" />}
-//             label="Test1"
-//             sx={[{ '&:hover': { backgroundColor: 'rgb(238, 238, 238)' } }]}
-//           />
-//           <FormControlLabel
-//             control={<Checkbox size="small" color="default" />}
-//             label="Test2"
-//           />
-//         </FormGroup>
-//       </Box>
-//       <Box>
-//         2 items
-//       </Box>
-//     </Box>
-//   );
-// }
 
 //UI完了
 //入力したらtodoItemに並ぶ
